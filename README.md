@@ -3,7 +3,7 @@
 <!-- <img src="./devops.gif" alt="react-native" width="25%" height="40%" align="right">
 
 <!--
-**fatihtepe/fatihtepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Arifeendevops/Arifeendevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
